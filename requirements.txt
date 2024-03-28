@@ -1,0 +1,13 @@
+chroma
+ipykernel
+ipywidgets
+langchain
+llama-index
+llama-index-embeddings-huggingface
+llama-index-embeddings-langchain
+openai
+pypdf2
+sentence_transformers
+streamlit
+torch
+transformers
