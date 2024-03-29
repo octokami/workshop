@@ -11,3 +11,6 @@ sentence_transformers
 streamlit
 torch
 transformers
+chromadb
+llama-index-llms-ollama
+llama-index-vector-stores-chroma
